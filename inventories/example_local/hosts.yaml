@@ -1,0 +1,6 @@
+---
+all:
+  hosts:
+    gcp_host:
+        ansible_host: 35.226.127.46
+        ansible_user: anderson

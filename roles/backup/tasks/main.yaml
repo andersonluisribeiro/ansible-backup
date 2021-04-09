@@ -1,0 +1,6 @@
+---
+
+- name: Backup dir
+  copy:
+    src: "{{ src_dir }}"
+    dest: "{{ dest_dir }}"
